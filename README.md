@@ -166,15 +166,102 @@
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Tech |
-|---------|------|
-| 🤖 CraftAI | MERN Stack |
-| 🚖 Cab Booking App | MERN Stack |
-| 💬 Food Delivery App | MERN Stack|
-| 📋 ThreeJs Portfolio | React + TailWind CSS +ThreeJs |
-| 💰 Persional Portfolio | React + Framer Motion |
+<table>
+<tr>
+
+<td colspan="2" align="center">
+
+## 💼 Personal Portfolio
+
+A fully responsive developer portfolio showcasing my projects, skills, GitHub statistics, contact form, and smooth UI animations.
+
+**Tech Stack**
+
+`React` `Framer Motion` `Tailwind CSS`
+
+[![Live Demo](https://img.shields.io/badge/🌐_Visit_Portfolio-00C853?style=for-the-badge)](https://rahul-portfolio-krhj.onrender.com/)
+
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/rahulrp17/Rahul-Portfolio)
+
+</td>
+
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🤖 CraftAI
+
+An AI-powered web application built using the MERN Stack with a modern UI, secure authentication, and intelligent features.
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT`
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://craftai-qb66.onrender.com/)
+
+[![GitHub](https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rahulrp17/CraftAI)
+
+</td>
+
+<td>
+
+## 🚖 Cab Booking App
+
+A full-featured cab booking platform with authentication, booking management, responsive UI, and admin dashboard.
+
+**Tech Stack**
+
+`React` `Tailwind CSS` `Framer Motion`
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://let-s-go-cab.onrender.com/)
+
+[![GitHub](https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rahulrp17/let-s-Go-Cab)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🍔 Food Delivery App
+
+A modern food ordering platform with cart, authentication, order tracking, and responsive design.
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB`
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://food-delivery-frontend-ib75.onrender.com/)
+
+[![GitHub](https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rahulrp17/Food-Delivery)
+
+</td>
+
+<td>
+
+## 🌌 Three.js Portfolio
+
+A premium animated developer portfolio featuring 3D models, smooth animations, Framer Motion, and responsive design.
+
+**Tech Stack**
+
+`React` `Three.js` `React Three Fiber` `Tailwind CSS` `Framer Motion`
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://threejs-portfolio-oih3.onrender.com/)
+
+[![GitHub](https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rahulrp17/ThreeJs-Portfolio)
+
+</td>
+
+</tr>
+
+
+</table>
 
 ---
 
